@@ -1,0 +1,179 @@
+<!doctype html>
+<html lang="en-US">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>CRMnext Chatbot</title>
+    <link rel="stylesheet" href="css/tachyons.min.css">
+    <link rel="stylesheet" href="css/font-awesome.min.css">
+    <script src="//cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+    
+<style>
+
+::-webkit-scrollbar {
+    width: 0px;
+    background: transparent; /* make scrollbar transparent */
+}
+
+.card-container {
+	display:block;
+	width:360px;
+	background: #f2f2f2;
+    padding: 10px;
+    border: 1px solid #ccc;
+}
+.formRow {
+  margin-bottom: 15px;
+}
+.formInput {
+  position: relative;
+  width: 100%;
+  border-bottom: 1px solid #ccc;
+}
+.comnInput {
+    height: 20px;
+    width: 100%;
+    border: 0;
+    background: transparent;
+    outline: 0;
+    bottom: 0px;
+    margin-left: 10px;
+    margin-bottom: 0;
+}
+.formInput:after {
+  height: 10px;
+  width: 1px;
+  background: #ccc;
+  content: "";
+  position: absolute;
+  left: 0;
+  bottom: 0;
+}
+.formInput:before {
+  height: 10px;
+  width: 1px;
+  background: #ccc;
+  content: "";
+  position: absolute;
+  right: 0;
+  bottom: 0;
+}
+.label-lostwallet {
+  font-size: 12px;
+    color: #01867e;
+    font-weight: 300;
+    z-index: 0;
+    margin-bottom: 5px;
+    display: block;
+}
+
+.transition{-webkit-transition:all .3s ease-in-out; -moz-transition:all .3s ease-in-out; -ms-transition:all .3s ease-in-out; -o-transition:all .3s ease-in-out; transition:all .3s ease-in-out;}
+input{-webkit-transition:ease-in-out .4s; -moz-transition:ease-in-out .4s; -ms-transition:ease-in-out .4s; -o-transition:ease-in-out .4s; transition:ease-in-out .4s; -moz-appearance: none;  -o-appearance: none;  -webkit-appearance: none;  -ms-appearance: none;
+}
+
+.btngrp {
+  text-align: right;
+  margin:    10px 0px 10px 0px;
+}
+
+.btnComn {
+  background: #01867e none repeat scroll 0 0;
+  color: #fff;
+  display: inline-block;
+  font-size: 13px;
+  margin: 0;
+  padding: 8px 0;
+  text-align: center;
+  text-transform: capitalize;
+  vertical-align: middle;
+  width: 84px;
+  text-decoration:none;
+}
+
+.case-heading {
+	font-size:14px;
+	font-weight:bold;
+	text-align: center;
+    color: #404040;
+	margin-bottom:0;
+}
+
+
+
+
+.header-transition {
+  padding:3px 0px;
+  width: 100%;
+  z-index: 100; overflow: hidden;
+  margin-bottom:10px;
+}
+.jnryCon {
+  margin-right: 0px;
+  position: relative;
+  margin-top: 10px;
+      display: flex;
+    justify-content: space-between;
+}
+
+.stpes {
+  float: left;
+  text-align: center;
+}
+.steptxt {
+  display: block;
+  font-size: 12px;
+  font-weight: 400;
+  text-transform: uppercase;
+  margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.stepno {
+  background: #d6d6d6 none repeat scroll 0 0;
+  border-radius: 100%;
+  color: #fff;
+  display: block;
+  font-size: 13px;
+  height: 25px;
+  line-height: 25px;
+  margin: 7px auto 0;
+  text-align: center;
+  width: 25px;
+  position: relative;
+  z-index: 10;
+}
+.jnryCon .line {
+  background: #666 none repeat scroll 0 0;
+      border: 0 none;
+    height: 2px;
+    left: 8px;
+    margin: 0;
+    position: absolute;
+    top: 20px;
+    transform: rotate(0deg);
+    width: 92%;
+}
+
+.current .stepno {
+  background: #01867e none repeat scroll 0 0;
+}
+.form-detail {
+	width:32%;
+	display:inline-block;
+	text-align:left;
+}
+.color-gray {
+	color:#404040;
+}
+.fl {float:left;}
+.fr {float:right;}
+</style>    
+</head>
+
+<body>
+    <div id="root">
+    </div>
+    <script src="bundle.js" ></script>
+</body>
+</html>

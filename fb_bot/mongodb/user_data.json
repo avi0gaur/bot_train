@@ -1,0 +1,82 @@
+{
+  "bot_data":
+{"chat_data":{
+
+  "WEATHER_INFO":[{
+    "intent_type":"WEATHER_INFO",
+    "user_text": ["how is weather today","is it cold here,","tell me weather report","wheather info"],
+    "response":["Lets find out which place weather you need to know"],
+    "recommendation":["How is weather today"],
+    "card_type":"",
+    "entities":[],		
+    "user_stage":0
+  }
+  ],
+
+  "Greeting":[{
+    "intent_type":"",
+    "user_text": ["hi", "hello", "hey", "namaste","oye","bhai"],
+    "response":["Hi How may I help you today?.", "ola my friend ! How may i serve you today."],
+    "recommendation":[""],
+    "card_type":"",
+    "entities":[],
+    "user_stage":0
+  }
+  ],
+  "":[{
+    "intent_type":"",
+    "user_text": ["who made you","who built you","where you live"],
+    "response":["I live in server and awesome people from CRMNext made me.","oh ! you like to know about me lets go for a coffee. ;-)"],
+    "recommendation":["travel expenses","i lost my card"],
+    "card_type":"",
+    "entities":[],
+    "user_stage":0
+  }
+  ],
+  "EXIT":[{
+    "intent_type":"",
+    "user_text": ["Need to move out","quit","exit from process","exit"],
+    "response":["I understand, have a nice day.","Oh! I am gonna miss you"],
+    "recommendation":["quit"],
+    "card_type":"",
+    "entities":[],
+    "user_stage":0
+  }
+  ],
+  "neg_sent":[{
+    "intent_type":"neg_sent",
+    "user_text": [""],
+    "response":["Not a nice thing to say, I am redirecting ", "Commn dude chill ! be nice ?"],
+    "recommendation":["quit"],
+    "card_type":"#ConnectCS",
+    "entities":[],
+    "user_stage":0
+  }
+  ]
+},
+
+"train_data":
+        {
+          "intents":{
+                  "WEATHER_INFO":
+                  "weather",
+        "Greeting":
+            "greetings",
+        "EXIT":"exit"
+          },
+          
+
+         "intent_list":{ "weather": [
+            "weather",
+            "mausam",
+            "rainy",
+            "cloudy",
+            "hot",
+            "cold"
+                ],
+        "greetings":["hi", "hello", "hey", "namaste","oye","bhai"],
+        "exit":["quit","exit","move out"]
+         }
+        }
+}
+}

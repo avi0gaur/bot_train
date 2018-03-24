@@ -1,0 +1,301 @@
+2017-09-14 18:27:43,898 - werkzeug - INFO -  * Restarting with stat
+2017-09-14 18:27:47,342 - werkzeug - WARNING -  * Debugger is active!
+2017-09-14 18:27:47,342 - werkzeug - INFO -  * Debugger PIN: 174-892-857
+2017-09-14 18:27:47,342 - werkzeug - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2017-09-14 18:27:55,745 - werkzeug - INFO - 127.0.0.1 - - [14/Sep/2017 18:27:55] "GET / HTTP/1.1" 304 -
+2017-09-14 18:28:24,397 - werkzeug - INFO - 127.0.0.1 - - [14/Sep/2017 18:28:24] "POST /chatbot/request HTTP/1.1" 500 -
+2017-09-14 18:28:47,206 - werkzeug - INFO -  * Detected change in 'D:\\Hackathon\\Weather_bot\\bot\\__init__.py', reloading
+2017-09-14 18:28:47,299 - werkzeug - INFO -  * Restarting with stat
+2017-09-14 18:28:51,780 - werkzeug - WARNING -  * Debugger is active!
+2017-09-14 18:28:51,784 - werkzeug - INFO -  * Debugger PIN: 174-892-857
+2017-09-14 18:28:51,788 - werkzeug - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2017-09-14 18:28:53,099 - bot_logs - DEBUG - user request: {'userId': '123', 'intent_type': '', 'user_text': 'Hi', 'user_name': 'Avinash Gaur', 'contactNumber': '89892398128', 'user_stage': 0, 're_connect': True}
+2017-09-14 18:28:53,099 - bot_logs - DEBUG - Received Json in run_bot: {'userId': '123', 'intent_type': '', 'user_text': 'Hi', 'user_name': 'Avinash Gaur', 'contactNumber': '89892398128', 'user_stage': 0, 're_connect': True}
+2017-09-14 18:28:53,327 - bot_logs - DEBUG - User Data: {'userId': '123', 'intent_type': 'Greeting', 'user_text': 'Hi', 'user_name': 'Avinash Gaur', 'contactNumber': '89892398128', 'user_stage': 0, 're_connect': True}
+2017-09-14 18:28:53,375 - werkzeug - INFO - 127.0.0.1 - - [14/Sep/2017 18:28:53] "POST /chatbot/request HTTP/1.1" 500 -
+2017-09-14 18:29:14,154 - werkzeug - INFO -  * Restarting with stat
+2017-09-14 18:29:17,497 - werkzeug - WARNING -  * Debugger is active!
+2017-09-14 18:29:17,497 - werkzeug - INFO -  * Debugger PIN: 174-892-857
+2017-09-14 18:29:17,497 - werkzeug - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2017-09-14 18:29:42,925 - bot_logs - DEBUG - user request: {'userId': '123', 'intent_type': '', 'user_text': 'Hi', 'user_name': 'Avinash Gaur', 'contactNumber': '89892398128', 'user_stage': 0, 're_connect': True}
+2017-09-14 18:29:42,925 - bot_logs - DEBUG - Received Json in run_bot: {'userId': '123', 'intent_type': '', 'user_text': 'Hi', 'user_name': 'Avinash Gaur', 'contactNumber': '89892398128', 'user_stage': 0, 're_connect': True}
+2017-09-14 18:29:42,981 - bot_logs - DEBUG - User Data: {'userId': '123', 'intent_type': 'Greeting', 'user_text': 'Hi', 'user_name': 'Avinash Gaur', 'contactNumber': '89892398128', 'user_stage': 0, 're_connect': True}
+2017-09-14 18:29:42,989 - werkzeug - INFO - 127.0.0.1 - - [14/Sep/2017 18:29:42] "POST /chatbot/request HTTP/1.1" 500 -
+2017-09-14 18:31:13,780 - werkzeug - INFO -  * Detected change in 'D:\\Hackathon\\Weather_bot\\bot\\chat_bot.py', reloading
+2017-09-14 18:31:13,863 - werkzeug - INFO -  * Restarting with stat
+2017-09-14 18:31:18,267 - werkzeug - WARNING -  * Debugger is active!
+2017-09-14 18:31:18,283 - werkzeug - INFO -  * Debugger PIN: 174-892-857
+2017-09-14 18:31:18,283 - werkzeug - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2017-09-14 18:31:29,539 - werkzeug - INFO -  * Restarting with stat
+2017-09-14 18:31:33,115 - werkzeug - WARNING -  * Debugger is active!
+2017-09-14 18:31:33,123 - werkzeug - INFO -  * Debugger PIN: 174-892-857
+2017-09-14 18:31:33,135 - werkzeug - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2017-09-14 18:31:39,669 - werkzeug - INFO - 127.0.0.1 - - [14/Sep/2017 18:31:39] "GET / HTTP/1.1" 304 -
+2017-09-14 18:32:07,779 - bot_logs - DEBUG - user request: {'userId': '123', 'intent_type': '', 'user_text': 'Hi', 'user_name': 'Avinash Gaur', 'contactNumber': '89892398128', 'user_stage': 0, 're_connect': True}
+2017-09-14 18:32:07,779 - bot_logs - DEBUG - Received Json in run_bot: {'userId': '123', 'intent_type': '', 'user_text': 'Hi', 'user_name': 'Avinash Gaur', 'contactNumber': '89892398128', 'user_stage': 0, 're_connect': True}
+2017-09-14 18:32:07,839 - bot_logs - DEBUG - User Data: {'userId': '123', 'intent_type': 'Greeting', 'user_text': 'Hi', 'user_name': 'Avinash Gaur', 'contactNumber': '89892398128', 'user_stage': 0, 're_connect': True}
+2017-09-14 18:32:07,839 - bot_logs - DEBUG - bot response: {'userId': '123', 'intent_type': 'Greeting', 'user_text': 'Hi', 'user_name': 'Avinash Gaur', 'contactNumber': '89892398128', 'user_stage': 0, 're_connect': True}
+2017-09-14 18:32:07,839 - werkzeug - INFO - 127.0.0.1 - - [14/Sep/2017 18:32:07] "POST /chatbot/request HTTP/1.1" 200 -
+2017-09-14 18:32:07,843 - bot_logs - DEBUG - user request: {'userId': '123', 'intent_type': '', 'user_text': 'Hi', 'user_name': 'Avinash Gaur', 'contactNumber': '89892398128', 'user_stage': 0, 're_connect': True}
+2017-09-14 18:32:07,843 - bot_logs - DEBUG - Received Json in run_bot: {'userId': '123', 'intent_type': '', 'user_text': 'Hi', 'user_name': 'Avinash Gaur', 'contactNumber': '89892398128', 'user_stage': 0, 're_connect': True}
+2017-09-14 18:32:07,843 - bot_logs - DEBUG - User Data: {'userId': '123', 'intent_type': 'Greeting', 'user_text': 'Hi', 'user_name': 'Avinash Gaur', 'contactNumber': '89892398128', 'user_stage': 0, 're_connect': True}
+2017-09-14 18:32:07,843 - bot_logs - DEBUG - bot response: {'userId': '123', 'intent_type': 'Greeting', 'user_text': 'Hi', 'user_name': 'Avinash Gaur', 'contactNumber': '89892398128', 'user_stage': 0, 're_connect': True}
+2017-09-14 18:32:07,843 - werkzeug - INFO - 127.0.0.1 - - [14/Sep/2017 18:32:07] "POST /chatbot/request HTTP/1.1" 200 -
+2017-09-14 18:33:04,504 - bot_logs - DEBUG - user request: {'userId': '123', 'intent_type': '', 'user_text': 'ollkansc', 'user_name': 'Avinash Gaur', 'contactNumber': '89892398128', 'user_stage': 0, 're_connect': True}
+2017-09-14 18:33:04,504 - bot_logs - DEBUG - Received Json in run_bot: {'userId': '123', 'intent_type': '', 'user_text': 'ollkansc', 'user_name': 'Avinash Gaur', 'contactNumber': '89892398128', 'user_stage': 0, 're_connect': True}
+2017-09-14 18:33:04,504 - bot_logs - DEBUG - User Data: {'userId': '123', 'intent_type': '', 'user_text': 'ollkansc', 'user_name': 'Avinash Gaur', 'contactNumber': '89892398128', 'user_stage': 0, 're_connect': True}
+2017-09-14 18:33:04,504 - bot_logs - DEBUG - bot response: {'userId': '123', 'intent_type': '', 'user_text': 'ollkansc', 'user_name': 'Avinash Gaur', 'contactNumber': '89892398128', 'user_stage': 0, 're_connect': True}
+2017-09-14 18:33:04,504 - werkzeug - INFO - 127.0.0.1 - - [14/Sep/2017 18:33:04] "POST /chatbot/request HTTP/1.1" 200 -
+2017-09-14 19:09:38,196 - werkzeug - INFO -  * Detected change in 'D:\\Hackathon\\Weather_bot\\bot\\state_db.py', reloading
+2017-09-14 19:09:38,399 - werkzeug - INFO -  * Restarting with stat
+2017-09-14 19:12:48,911 - werkzeug - INFO -  * Restarting with stat
+2017-09-14 19:12:53,424 - werkzeug - WARNING -  * Debugger is active!
+2017-09-14 19:12:53,427 - werkzeug - INFO -  * Debugger PIN: 174-892-857
+2017-09-14 19:12:53,431 - werkzeug - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2017-09-14 19:12:59,245 - werkzeug - INFO - 127.0.0.1 - - [14/Sep/2017 19:12:59] "GET / HTTP/1.1" 304 -
+2017-09-14 19:13:16,086 - bot_logs - DEBUG - user request: {'userId': '123', 'intent_type': '', 'user_text': 'weather', 'user_name': 'Avinash Gaur', 'contactNumber': '89892398128', 'user_stage': 0, 're_connect': True}
+2017-09-14 19:13:16,086 - bot_logs - DEBUG - Received Json in run_bot: {'userId': '123', 'intent_type': '', 'user_text': 'weather', 'user_name': 'Avinash Gaur', 'contactNumber': '89892398128', 'user_stage': 0, 're_connect': True}
+2017-09-14 19:13:16,142 - bot_logs - DEBUG - User Data: {'userId': '123', 'intent_type': 'WEATHER_INFO', 'user_text': 'weather', 'user_name': 'Avinash Gaur', 'contactNumber': '89892398128', 'user_stage': 0, 're_connect': True}
+2017-09-14 19:13:16,142 - bot_logs - DEBUG - bot response: {'userId': '123', 'intent_type': 'WEATHER_INFO', 'user_text': 'weather', 'user_name': 'Avinash Gaur', 'contactNumber': '89892398128', 'user_stage': 0, 're_connect': True}
+2017-09-14 19:13:16,142 - werkzeug - INFO - 127.0.0.1 - - [14/Sep/2017 19:13:16] "POST /chatbot/request HTTP/1.1" 200 -
+2017-09-14 19:13:30,299 - werkzeug - INFO - 127.0.0.1 - - [14/Sep/2017 19:13:30] "GET /bundle.js.map HTTP/1.1" 404 -
+2017-09-14 19:16:30,274 - werkzeug - INFO -  * Restarting with stat
+2017-09-14 19:16:34,902 - werkzeug - WARNING -  * Debugger is active!
+2017-09-14 19:16:34,926 - werkzeug - INFO -  * Debugger PIN: 174-892-857
+2017-09-14 19:16:34,946 - werkzeug - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2017-09-14 19:16:35,206 - werkzeug - INFO - 127.0.0.1 - - [14/Sep/2017 19:16:35] "GET / HTTP/1.1" 304 -
+2017-09-14 19:16:37,187 - werkzeug - INFO - 127.0.0.1 - - [14/Sep/2017 19:16:37] "GET /bundle.js.map HTTP/1.1" 404 -
+2017-09-14 19:16:57,465 - bot_logs - DEBUG - user request: {'userId': '123', 'intent_type': '', 'user_text': 'weather', 'user_name': 'Avinash Gaur', 'contactNumber': '89892398128', 'user_stage': 0, 're_connect': True}
+2017-09-14 19:16:57,465 - bot_logs - DEBUG - Received Json in run_bot: {'userId': '123', 'intent_type': '', 'user_text': 'weather', 'user_name': 'Avinash Gaur', 'contactNumber': '89892398128', 'user_stage': 0, 're_connect': True}
+2017-09-14 19:16:57,537 - bot_logs - DEBUG - User Data: {'userId': '123', 'intent_type': 'WEATHER_INFO', 'user_text': 'weather', 'user_name': 'Avinash Gaur', 'contactNumber': '89892398128', 'user_stage': 0, 're_connect': True}
+2017-09-14 19:17:47,185 - bot_logs - DEBUG - bot response: {'userId': '123', 'intent_type': 'WEATHER_INFO', 'user_text': 'weather', 'user_name': 'Avinash Gaur', 'contactNumber': '89892398128', 'user_stage': 0, 're_connect': True}
+2017-09-14 19:17:47,185 - werkzeug - INFO - 127.0.0.1 - - [14/Sep/2017 19:17:47] "POST /chatbot/request HTTP/1.1" 200 -
+2017-09-14 19:18:06,994 - bot_logs - DEBUG - user request: {'userId': '123', 'intent_type': '', 'user_text': 'How is weather today', 'user_name': 'Avinash Gaur', 'contactNumber': '89892398128', 'user_stage': 0, 're_connect': True}
+2017-09-14 19:18:06,994 - bot_logs - DEBUG - Received Json in run_bot: {'userId': '123', 'intent_type': '', 'user_text': 'How is weather today', 'user_name': 'Avinash Gaur', 'contactNumber': '89892398128', 'user_stage': 0, 're_connect': True}
+2017-09-14 19:18:06,994 - bot_logs - DEBUG - User Data: {'userId': '123', 'intent_type': 'WEATHER_INFO', 'user_text': 'How is weather today', 'user_name': 'Avinash Gaur', 'contactNumber': '89892398128', 'user_stage': 0, 're_connect': True}
+2017-09-14 19:18:41,838 - bot_logs - DEBUG - bot response: {'userId': '123', 'intent_type': 'WEATHER_INFO', 'user_text': 'How is weather today', 'user_name': 'Avinash Gaur', 'contactNumber': '89892398128', 'user_stage': 0, 're_connect': True}
+2017-09-14 19:18:41,838 - werkzeug - INFO - 127.0.0.1 - - [14/Sep/2017 19:18:41] "POST /chatbot/request HTTP/1.1" 200 -
+2017-09-14 19:19:06,185 - bot_logs - DEBUG - user request: {'userId': '123', 'intent_type': '', 'user_text': 'is it cold here', 'user_name': 'Avinash Gaur', 'contactNumber': '89892398128', 'user_stage': 0, 're_connect': True}
+2017-09-14 19:19:06,185 - bot_logs - DEBUG - Received Json in run_bot: {'userId': '123', 'intent_type': '', 'user_text': 'is it cold here', 'user_name': 'Avinash Gaur', 'contactNumber': '89892398128', 'user_stage': 0, 're_connect': True}
+2017-09-14 19:19:06,185 - bot_logs - DEBUG - bot response: {'userId': '123', 'intent_type': '', 'user_text': 'is it cold here', 'user_name': 'Avinash Gaur', 'contactNumber': '89892398128', 'user_stage': 0, 're_connect': True}
+2017-09-14 19:19:06,185 - werkzeug - INFO - 127.0.0.1 - - [14/Sep/2017 19:19:06] "POST /chatbot/request HTTP/1.1" 200 -
+2017-09-14 19:19:46,751 - bot_logs - DEBUG - user request: {'userId': '123', 'intent_type': '', 'user_text': 'How is weather', 'user_name': 'Avinash Gaur', 'contactNumber': '89892398128', 'user_stage': 0, 're_connect': True}
+2017-09-14 19:19:46,751 - bot_logs - DEBUG - Received Json in run_bot: {'userId': '123', 'intent_type': '', 'user_text': 'How is weather', 'user_name': 'Avinash Gaur', 'contactNumber': '89892398128', 'user_stage': 0, 're_connect': True}
+2017-09-14 19:19:46,751 - bot_logs - DEBUG - User Data: {'userId': '123', 'intent_type': 'WEATHER_INFO', 'user_text': 'How is weather', 'user_name': 'Avinash Gaur', 'contactNumber': '89892398128', 'user_stage': 0, 're_connect': True}
+2017-09-14 19:20:10,141 - bot_logs - DEBUG - bot response: {'userId': '123', 'intent_type': 'WEATHER_INFO', 'user_text': 'How is weather', 'user_name': 'Avinash Gaur', 'contactNumber': '89892398128', 'user_stage': 0, 're_connect': True}
+2017-09-14 19:20:10,141 - werkzeug - INFO - 127.0.0.1 - - [14/Sep/2017 19:20:10] "POST /chatbot/request HTTP/1.1" 200 -
+2017-09-14 19:21:10,500 - werkzeug - INFO -  * Restarting with stat
+2017-09-14 19:21:15,248 - werkzeug - WARNING -  * Debugger is active!
+2017-09-14 19:21:15,263 - werkzeug - INFO -  * Debugger PIN: 174-892-857
+2017-09-14 19:21:15,279 - werkzeug - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2017-09-14 19:22:03,184 - bot_logs - DEBUG - user request: {'userId': '123', 'intent_type': '', 'user_text': 'is it cold here', 'user_name': 'Avinash Gaur', 'contactNumber': '89892398128', 'user_stage': 0, 're_connect': True}
+2017-09-14 19:22:03,184 - bot_logs - DEBUG - Received Json in run_bot: {'userId': '123', 'intent_type': '', 'user_text': 'is it cold here', 'user_name': 'Avinash Gaur', 'contactNumber': '89892398128', 'user_stage': 0, 're_connect': True}
+2017-09-14 19:22:03,252 - bot_logs - DEBUG - bot response: {'userId': '123', 'intent_type': '', 'user_text': 'is it cold here', 'user_name': 'Avinash Gaur', 'contactNumber': '89892398128', 'user_stage': 0, 're_connect': True}
+2017-09-14 19:22:03,256 - werkzeug - INFO - 127.0.0.1 - - [14/Sep/2017 19:22:03] "POST /chatbot/request HTTP/1.1" 200 -
+2017-09-14 19:22:31,194 - bot_logs - DEBUG - user request: {'userId': '123', 'intent_type': '', 'user_text': 'how is weather today', 'user_name': 'Avinash Gaur', 'contactNumber': '89892398128', 'user_stage': 0, 're_connect': True}
+2017-09-14 19:22:31,194 - bot_logs - DEBUG - Received Json in run_bot: {'userId': '123', 'intent_type': '', 'user_text': 'how is weather today', 'user_name': 'Avinash Gaur', 'contactNumber': '89892398128', 'user_stage': 0, 're_connect': True}
+2017-09-14 19:22:31,198 - bot_logs - DEBUG - User Data: {'userId': '123', 'intent_type': 'WEATHER_INFO', 'user_text': 'how is weather today', 'user_name': 'Avinash Gaur', 'contactNumber': '89892398128', 'user_stage': 0, 're_connect': True}
+2017-09-14 19:23:11,218 - bot_logs - DEBUG - bot response: {'userId': '123', 'intent_type': 'WEATHER_INFO', 'user_text': 'how is weather today', 'user_name': 'Avinash Gaur', 'contactNumber': '89892398128', 'user_stage': 0, 're_connect': True}
+2017-09-14 19:23:11,218 - werkzeug - INFO - 127.0.0.1 - - [14/Sep/2017 19:23:11] "POST /chatbot/request HTTP/1.1" 200 -
+2018-03-24 19:12:17,380 - werkzeug - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2018-03-24 19:12:17,396 - werkzeug - INFO -  * Restarting with stat
+2018-03-24 19:12:24,150 - werkzeug - WARNING -  * Debugger is active!
+2018-03-24 19:12:24,159 - werkzeug - INFO -  * Debugger pin code: 116-095-286
+2018-03-24 19:12:56,953 - werkzeug - INFO - 127.0.0.1 - - [24/Mar/2018 19:12:56] "GET / HTTP/1.1" 200 -
+2018-03-24 19:12:57,095 - werkzeug - INFO - 127.0.0.1 - - [24/Mar/2018 19:12:57] "GET /css/style.css HTTP/1.1" 200 -
+2018-03-24 19:13:00,118 - werkzeug - INFO - 127.0.0.1 - - [24/Mar/2018 19:13:00] "GET /images/website.png HTTP/1.1" 200 -
+2018-03-24 19:13:18,805 - werkzeug - INFO - 127.0.0.1 - - [24/Mar/2018 19:13:18] "GET /chatbot.html HTTP/1.1" 200 -
+2018-03-24 19:13:18,841 - werkzeug - INFO - 127.0.0.1 - - [24/Mar/2018 19:13:18] "GET /css/tachyons.min.css HTTP/1.1" 200 -
+2018-03-24 19:13:18,887 - werkzeug - INFO - 127.0.0.1 - - [24/Mar/2018 19:13:18] "GET /css/font-awesome.min.css HTTP/1.1" 200 -
+2018-03-24 19:13:18,968 - werkzeug - INFO - 127.0.0.1 - - [24/Mar/2018 19:13:18] "GET /bundle.js HTTP/1.1" 200 -
+2018-03-24 19:13:19,197 - werkzeug - INFO - 127.0.0.1 - - [24/Mar/2018 19:13:19] "GET /images/logo.png HTTP/1.1" 200 -
+2018-03-24 19:13:26,714 - bot_logs - DEBUG - user request: {'userId': '123', 'intent_type': '', 'user_text': 'Hi', 'user_name': 'Avinash Gaur', 'contactNumber': '89892398128', 'user_stage': 0, 're_connect': True}
+2018-03-24 19:13:26,714 - bot_logs - DEBUG - Received Json in run_bot: {'userId': '123', 'intent_type': '', 'user_text': 'Hi', 'user_name': 'Avinash Gaur', 'contactNumber': '89892398128', 'user_stage': 0, 're_connect': True}
+2018-03-24 19:13:26,898 - bot_logs - DEBUG - User Data: {'userId': '123', 'intent_type': 'Greeting', 'user_text': 'Hi', 'user_name': 'Avinash Gaur', 'contactNumber': '89892398128', 'user_stage': 0, 're_connect': True}
+2018-03-24 19:13:26,898 - bot_logs - DEBUG - bot response: {'userId': '123', 'intent_type': 'Greeting', 'user_text': 'Hi', 'user_name': 'Avinash Gaur', 'contactNumber': '89892398128', 'user_stage': 0, 're_connect': True}
+2018-03-24 19:13:26,898 - werkzeug - INFO - 127.0.0.1 - - [24/Mar/2018 19:13:26] "POST /chatbot/request HTTP/1.1" 200 -
+2018-03-24 19:13:26,932 - werkzeug - INFO - 127.0.0.1 - - [24/Mar/2018 19:13:26] "GET /fonts/fontawesome-webfont.woff2?v=4.7.0 HTTP/1.1" 200 -
+2018-03-24 19:13:48,955 - bot_logs - DEBUG - user request: {'userId': '123', 'intent_type': '', 'user_text': 'I need to know about weather today', 'user_name': 'Avinash Gaur', 'contactNumber': '89892398128', 'user_stage': 0, 're_connect': True}
+2018-03-24 19:13:48,956 - bot_logs - DEBUG - Received Json in run_bot: {'userId': '123', 'intent_type': '', 'user_text': 'I need to know about weather today', 'user_name': 'Avinash Gaur', 'contactNumber': '89892398128', 'user_stage': 0, 're_connect': True}
+2018-03-24 19:13:48,956 - bot_logs - DEBUG - User Data: {'userId': '123', 'intent_type': 'WEATHER_INFO', 'user_text': 'I need to know about weather today', 'user_name': 'Avinash Gaur', 'contactNumber': '89892398128', 'user_stage': 0, 're_connect': True}
+2018-03-24 19:13:48,956 - bot_logs - DEBUG - bot response: {'userId': '123', 'intent_type': 'WEATHER_INFO', 'user_text': 'I need to know about weather today', 'user_name': 'Avinash Gaur', 'contactNumber': '89892398128', 'user_stage': 0, 're_connect': True}
+2018-03-24 19:13:48,956 - werkzeug - INFO - 127.0.0.1 - - [24/Mar/2018 19:13:48] "POST /chatbot/request HTTP/1.1" 200 -
+2018-03-24 19:14:38,396 - bot_logs - DEBUG - user request: {'userId': '123', 'intent_type': '', 'user_text': 'Delhi', 'user_name': 'Avinash Gaur', 'contactNumber': '89892398128', 'user_stage': 0, 're_connect': True}
+2018-03-24 19:14:38,397 - bot_logs - DEBUG - Received Json in run_bot: {'userId': '123', 'intent_type': '', 'user_text': 'Delhi', 'user_name': 'Avinash Gaur', 'contactNumber': '89892398128', 'user_stage': 0, 're_connect': True}
+2018-03-24 19:14:38,398 - bot_logs - DEBUG - User Data: {'userId': '123', 'intent_type': '', 'user_text': 'Delhi', 'user_name': 'Avinash Gaur', 'contactNumber': '89892398128', 'user_stage': 0, 're_connect': True}
+2018-03-24 19:14:38,398 - bot_logs - DEBUG - bot response: {'userId': '123', 'intent_type': '', 'user_text': 'Delhi', 'user_name': 'Avinash Gaur', 'contactNumber': '89892398128', 'user_stage': 0, 're_connect': True}
+2018-03-24 19:14:38,398 - werkzeug - INFO - 127.0.0.1 - - [24/Mar/2018 19:14:38] "POST /chatbot/request HTTP/1.1" 200 -
+2018-03-24 19:23:04,467 - werkzeug - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2018-03-24 19:23:04,471 - werkzeug - INFO -  * Restarting with stat
+2018-03-24 19:23:13,787 - werkzeug - WARNING -  * Debugger is active!
+2018-03-24 19:23:13,806 - werkzeug - INFO -  * Debugger pin code: 116-095-286
+2018-03-24 19:23:13,863 - werkzeug - INFO - 127.0.0.1 - - [24/Mar/2018 19:23:13] "GET / HTTP/1.1" 304 -
+2018-03-24 19:24:44,590 - bot_logs - DEBUG - user request: {'userId': '123', 'intent_type': '', 'user_text': 'hi', 'user_name': 'Avinash Gaur', 'contactNumber': '89892398128', 'user_stage': 0, 're_connect': True}
+2018-03-24 19:24:44,590 - bot_logs - DEBUG - Received Json in run_bot: {'userId': '123', 'intent_type': '', 'user_text': 'hi', 'user_name': 'Avinash Gaur', 'contactNumber': '89892398128', 'user_stage': 0, 're_connect': True}
+2018-03-24 19:24:44,688 - bot_logs - DEBUG - User Data: {'userId': '123', 'intent_type': 'Greeting', 'user_text': 'hi', 'user_name': 'Avinash Gaur', 'contactNumber': '89892398128', 'user_stage': 0, 're_connect': True}
+2018-03-24 19:24:44,772 - werkzeug - INFO - 127.0.0.1 - - [24/Mar/2018 19:24:44] "POST /chatbot/request HTTP/1.1" 500 -
+2018-03-24 20:02:31,378 - werkzeug - INFO -  * Detected change in 'D:\\Hackathon\\Weather_bot\\bot\\__init__.py', reloading
+2018-03-24 20:02:31,632 - werkzeug - INFO -  * Restarting with stat
+2018-03-24 20:02:39,911 - werkzeug - WARNING -  * Debugger is active!
+2018-03-24 20:02:39,917 - werkzeug - INFO -  * Debugger pin code: 116-095-286
+2018-03-24 20:02:44,260 - werkzeug - INFO -  * Detected change in 'D:\\Hackathon\\Weather_bot\\bot\\__init__.py', reloading
+2018-03-24 20:02:44,550 - werkzeug - INFO -  * Restarting with stat
+2018-03-24 20:02:52,963 - werkzeug - WARNING -  * Debugger is active!
+2018-03-24 20:02:52,966 - werkzeug - INFO -  * Debugger pin code: 116-095-286
+2018-03-24 20:28:46,597 - werkzeug - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2018-03-24 20:28:46,603 - werkzeug - INFO -  * Restarting with stat
+2018-03-24 20:28:55,467 - werkzeug - WARNING -  * Debugger is active!
+2018-03-24 20:28:55,472 - werkzeug - INFO -  * Debugger pin code: 116-095-286
+2018-03-24 20:29:06,679 - werkzeug - INFO - 127.0.0.1 - - [24/Mar/2018 20:29:06] "GET /images/website.png HTTP/1.1" 200 -
+2018-03-24 20:31:28,395 - werkzeug - INFO - 127.0.0.1 - - [24/Mar/2018 20:31:28] "GET / HTTP/1.1" 200 -
+2018-03-24 20:32:34,931 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Sumit Mathur\\Desktop\\bot train\\Day 2\\Weather_bot\\bot\\bot_conf.py', reloading
+2018-03-24 20:32:35,100 - werkzeug - INFO -  * Restarting with stat
+2018-03-24 20:32:43,465 - werkzeug - WARNING -  * Debugger is active!
+2018-03-24 20:32:43,472 - werkzeug - INFO -  * Debugger pin code: 116-095-286
+2018-03-24 20:34:23,928 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Sumit Mathur\\Desktop\\bot train\\Day 2\\Weather_bot\\bot\\bot_conf.py', reloading
+2018-03-24 20:34:24,173 - werkzeug - INFO -  * Restarting with stat
+2018-03-24 21:29:03,170 - werkzeug - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2018-03-24 21:29:03,175 - werkzeug - INFO -  * Restarting with stat
+2018-03-24 21:29:13,605 - werkzeug - WARNING -  * Debugger is active!
+2018-03-24 21:29:13,611 - werkzeug - INFO -  * Debugger pin code: 116-095-286
+2018-03-24 21:29:13,626 - werkzeug - INFO - 127.0.0.1 - - [24/Mar/2018 21:29:13] "GET / HTTP/1.1" 200 -
+2018-03-24 21:29:16,006 - werkzeug - INFO - 127.0.0.1 - - [24/Mar/2018 21:29:16] "GET /favicon.ico HTTP/1.1" 404 -
+2018-03-24 21:29:35,789 - werkzeug - INFO - 127.0.0.1 - - [24/Mar/2018 21:29:35] "GET /?hub.mode=subscribe&hub.challenge=1841582421&hub.verify_token=avi HTTP/1.1" 200 -
+2018-03-24 21:30:06,044 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Sumit Mathur\\Desktop\\bot train\\Day 2\\Weather_bot\\bot\\app.py', reloading
+2018-03-24 21:30:06,231 - werkzeug - INFO -  * Restarting with stat
+2018-03-24 21:30:13,657 - werkzeug - WARNING -  * Debugger is active!
+2018-03-24 21:30:13,662 - werkzeug - INFO -  * Debugger pin code: 116-095-286
+2018-03-24 21:30:13,727 - werkzeug - INFO - 127.0.0.1 - - [24/Mar/2018 21:30:13] "GET /?hub.mode=subscribe&hub.challenge=111626279&hub.verify_token=avi HTTP/1.1" 500 -
+2018-03-24 21:30:39,456 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Sumit Mathur\\Desktop\\bot train\\Day 2\\Weather_bot\\bot\\app.py', reloading
+2018-03-24 21:30:39,634 - werkzeug - INFO -  * Restarting with stat
+2018-03-24 21:30:54,050 - werkzeug - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2018-03-24 21:30:54,053 - werkzeug - INFO -  * Restarting with stat
+2018-03-24 21:31:03,332 - werkzeug - WARNING -  * Debugger is active!
+2018-03-24 21:31:03,345 - werkzeug - INFO -  * Debugger pin code: 116-095-286
+2018-03-24 21:31:03,373 - werkzeug - INFO - 127.0.0.1 - - [24/Mar/2018 21:31:03] "GET /?hub.mode=subscribe&hub.challenge=802857195&hub.verify_token=avi HTTP/1.1" 200 -
+2018-03-24 21:31:19,154 - werkzeug - INFO - 127.0.0.1 - - [24/Mar/2018 21:31:19] "GET /?hub.mode=subscribe&hub.challenge=447294026&hub.verify_token=avi HTTP/1.1" 200 -
+2018-03-24 21:34:07,445 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Sumit Mathur\\Desktop\\bot train\\Day 2\\Weather_bot\\bot\\app.py', reloading
+2018-03-24 21:34:07,704 - werkzeug - INFO -  * Restarting with stat
+2018-03-24 21:34:14,891 - werkzeug - WARNING -  * Debugger is active!
+2018-03-24 21:34:14,896 - werkzeug - INFO -  * Debugger pin code: 116-095-286
+2018-03-24 21:34:25,013 - werkzeug - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2018-03-24 21:34:25,016 - werkzeug - INFO -  * Restarting with stat
+2018-03-24 21:34:35,234 - werkzeug - WARNING -  * Debugger is active!
+2018-03-24 21:34:35,239 - werkzeug - INFO -  * Debugger pin code: 116-095-286
+2018-03-24 21:35:33,316 - werkzeug - INFO - 127.0.0.1 - - [24/Mar/2018 21:35:33] "GET /?hub.mode=subscribe&hub.challenge=323601311&hub.verify_token=avi HTTP/1.1" 200 -
+2018-03-24 21:40:38,521 - bot_logs - DEBUG - Received Json in run_bot: {'userId': '123', 'intent_type': '', 'user_text': 'Hi', 'user_name': 'Avinash Gaur', 'contactNumber': '89892398128', 'user_stage': 0, 're_connect': True}
+2018-03-24 21:40:38,758 - bot_logs - DEBUG - User Data: {'userId': '123', 'intent_type': 'Greeting', 'user_text': 'Hi', 'user_name': 'Avinash Gaur', 'contactNumber': '89892398128', 'user_stage': 0, 're_connect': True}
+2018-03-24 21:40:38,780 - werkzeug - INFO - 127.0.0.1 - - [24/Mar/2018 21:40:38] "POST / HTTP/1.1" 500 -
+2018-03-24 21:40:45,014 - bot_logs - DEBUG - Received Json in run_bot: {'userId': '123', 'intent_type': '', 'user_text': 'Hi', 'user_name': 'Avinash Gaur', 'contactNumber': '89892398128', 'user_stage': 0, 're_connect': True}
+2018-03-24 21:40:45,017 - bot_logs - DEBUG - User Data: {'userId': '123', 'intent_type': 'Greeting', 'user_text': 'Hi', 'user_name': 'Avinash Gaur', 'contactNumber': '89892398128', 'user_stage': 0, 're_connect': True}
+2018-03-24 21:40:45,089 - werkzeug - INFO - 127.0.0.1 - - [24/Mar/2018 21:40:45] "POST / HTTP/1.1" 500 -
+2018-03-24 21:40:46,246 - bot_logs - DEBUG - Received Json in run_bot: {'userId': '123', 'intent_type': '', 'user_text': 'Hi', 'user_name': 'Avinash Gaur', 'contactNumber': '89892398128', 'user_stage': 0, 're_connect': True}
+2018-03-24 21:40:46,247 - bot_logs - DEBUG - User Data: {'userId': '123', 'intent_type': 'Greeting', 'user_text': 'Hi', 'user_name': 'Avinash Gaur', 'contactNumber': '89892398128', 'user_stage': 0, 're_connect': True}
+2018-03-24 21:40:46,277 - werkzeug - INFO - 127.0.0.1 - - [24/Mar/2018 21:40:46] "POST / HTTP/1.1" 500 -
+2018-03-24 21:40:47,797 - bot_logs - DEBUG - Received Json in run_bot: {'userId': '123', 'intent_type': '', 'user_text': 'Hi', 'user_name': 'Avinash Gaur', 'contactNumber': '89892398128', 'user_stage': 0, 're_connect': True}
+2018-03-24 21:40:47,800 - bot_logs - DEBUG - User Data: {'userId': '123', 'intent_type': 'Greeting', 'user_text': 'Hi', 'user_name': 'Avinash Gaur', 'contactNumber': '89892398128', 'user_stage': 0, 're_connect': True}
+2018-03-24 21:40:47,882 - werkzeug - INFO - 127.0.0.1 - - [24/Mar/2018 21:40:47] "POST / HTTP/1.1" 500 -
+2018-03-24 21:40:50,133 - bot_logs - DEBUG - Received Json in run_bot: {'userId': '123', 'intent_type': '', 'user_text': 'Hi', 'user_name': 'Avinash Gaur', 'contactNumber': '89892398128', 'user_stage': 0, 're_connect': True}
+2018-03-24 21:40:50,137 - bot_logs - DEBUG - User Data: {'userId': '123', 'intent_type': 'Greeting', 'user_text': 'Hi', 'user_name': 'Avinash Gaur', 'contactNumber': '89892398128', 'user_stage': 0, 're_connect': True}
+2018-03-24 21:40:50,178 - werkzeug - INFO - 127.0.0.1 - - [24/Mar/2018 21:40:50] "POST / HTTP/1.1" 500 -
+2018-03-24 21:40:54,230 - bot_logs - DEBUG - Received Json in run_bot: {'userId': '123', 'intent_type': '', 'user_text': 'Hi', 'user_name': 'Avinash Gaur', 'contactNumber': '89892398128', 'user_stage': 0, 're_connect': True}
+2018-03-24 21:40:54,231 - bot_logs - DEBUG - User Data: {'userId': '123', 'intent_type': 'Greeting', 'user_text': 'Hi', 'user_name': 'Avinash Gaur', 'contactNumber': '89892398128', 'user_stage': 0, 're_connect': True}
+2018-03-24 21:40:54,253 - werkzeug - INFO - 127.0.0.1 - - [24/Mar/2018 21:40:54] "POST / HTTP/1.1" 500 -
+2018-03-24 21:41:11,312 - bot_logs - DEBUG - Received Json in run_bot: {'userId': '123', 'intent_type': '', 'user_text': 'Hi', 'user_name': 'Avinash Gaur', 'contactNumber': '89892398128', 'user_stage': 0, 're_connect': True}
+2018-03-24 21:41:11,314 - bot_logs - DEBUG - User Data: {'userId': '123', 'intent_type': 'Greeting', 'user_text': 'Hi', 'user_name': 'Avinash Gaur', 'contactNumber': '89892398128', 'user_stage': 0, 're_connect': True}
+2018-03-24 21:41:11,377 - werkzeug - INFO - 127.0.0.1 - - [24/Mar/2018 21:41:11] "POST / HTTP/1.1" 500 -
+2018-03-24 21:42:41,382 - werkzeug - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2018-03-24 21:42:41,387 - werkzeug - INFO -  * Restarting with stat
+2018-03-24 21:42:49,477 - werkzeug - WARNING -  * Debugger is active!
+2018-03-24 21:42:49,496 - werkzeug - INFO -  * Debugger pin code: 116-095-286
+2018-03-24 21:44:02,668 - bot_logs - DEBUG - Received Json in run_bot: {'userId': '123', 'intent_type': '', 'user_text': 'Hi', 'user_name': 'Avinash Gaur', 'contactNumber': '89892398128', 'user_stage': 0, 're_connect': True}
+2018-03-24 21:44:02,798 - bot_logs - DEBUG - User Data: {'userId': '123', 'intent_type': 'Greeting', 'user_text': 'Hi', 'user_name': 'Avinash Gaur', 'contactNumber': '89892398128', 'user_stage': 0, 're_connect': True}
+2018-03-24 21:44:02,810 - werkzeug - INFO - 127.0.0.1 - - [24/Mar/2018 21:44:02] "POST / HTTP/1.1" 500 -
+2018-03-24 21:44:19,031 - werkzeug - INFO - 127.0.0.1 - - [24/Mar/2018 21:44:19] "GET / HTTP/1.1" 400 -
+2018-03-24 21:45:26,432 - bot_logs - DEBUG - Received Json in run_bot: {'userId': '123', 'intent_type': '', 'user_text': 'Hi', 'user_name': 'Avinash Gaur', 'contactNumber': '89892398128', 'user_stage': 0, 're_connect': True}
+2018-03-24 21:45:26,434 - bot_logs - DEBUG - User Data: {'userId': '123', 'intent_type': 'Greeting', 'user_text': 'Hi', 'user_name': 'Avinash Gaur', 'contactNumber': '89892398128', 'user_stage': 0, 're_connect': True}
+2018-03-24 21:45:26,482 - werkzeug - INFO - 127.0.0.1 - - [24/Mar/2018 21:45:26] "POST / HTTP/1.1" 500 -
+2018-03-24 21:46:52,592 - bot_logs - DEBUG - Received Json in run_bot: {'userId': '123', 'intent_type': '', 'user_text': 'Hi', 'user_name': 'Avinash Gaur', 'contactNumber': '89892398128', 'user_stage': 0, 're_connect': True}
+2018-03-24 21:46:52,593 - bot_logs - DEBUG - User Data: {'userId': '123', 'intent_type': 'Greeting', 'user_text': 'Hi', 'user_name': 'Avinash Gaur', 'contactNumber': '89892398128', 'user_stage': 0, 're_connect': True}
+2018-03-24 21:46:52,606 - werkzeug - INFO - 127.0.0.1 - - [24/Mar/2018 21:46:52] "POST / HTTP/1.1" 500 -
+2018-03-24 21:47:56,234 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Sumit Mathur\\Desktop\\bot train\\Day 2\\Weather_bot\\bot\\Custompayload.py', reloading
+2018-03-24 21:47:56,416 - werkzeug - INFO -  * Restarting with stat
+2018-03-24 21:48:02,188 - werkzeug - WARNING -  * Debugger is active!
+2018-03-24 21:48:02,192 - werkzeug - INFO -  * Debugger pin code: 116-095-286
+2018-03-24 21:48:13,149 - werkzeug - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2018-03-24 21:48:13,153 - werkzeug - INFO -  * Restarting with stat
+2018-03-24 21:48:18,139 - werkzeug - WARNING -  * Debugger is active!
+2018-03-24 21:48:18,143 - werkzeug - INFO -  * Debugger pin code: 116-095-286
+2018-03-24 21:48:39,057 - werkzeug - INFO - 127.0.0.1 - - [24/Mar/2018 21:48:39] "GET / HTTP/1.1" 400 -
+2018-03-24 21:49:27,791 - bot_logs - DEBUG - Received Json in run_bot: {'userId': '123', 'intent_type': '', 'user_text': 'Hi', 'user_name': 'Avinash Gaur', 'contactNumber': '89892398128', 'user_stage': 0, 're_connect': True}
+2018-03-24 21:49:27,893 - bot_logs - DEBUG - User Data: {'userId': '123', 'intent_type': 'Greeting', 'user_text': 'Hi', 'user_name': 'Avinash Gaur', 'contactNumber': '89892398128', 'user_stage': 0, 're_connect': True}
+2018-03-24 21:49:27,910 - werkzeug - INFO - 127.0.0.1 - - [24/Mar/2018 21:49:27] "POST / HTTP/1.1" 500 -
+2018-03-24 21:50:13,107 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Sumit Mathur\\Desktop\\bot train\\Day 2\\Weather_bot\\bot\\Custompayload.py', reloading
+2018-03-24 21:50:13,279 - werkzeug - INFO -  * Restarting with stat
+2018-03-24 21:50:19,132 - werkzeug - WARNING -  * Debugger is active!
+2018-03-24 21:50:19,136 - werkzeug - INFO -  * Debugger pin code: 116-095-286
+2018-03-24 21:50:53,227 - bot_logs - DEBUG - Received Json in run_bot: {'userId': '123', 'intent_type': '', 'user_text': 'Hi', 'user_name': 'Avinash Gaur', 'contactNumber': '89892398128', 'user_stage': 0, 're_connect': True}
+2018-03-24 21:50:53,286 - bot_logs - DEBUG - User Data: {'userId': '123', 'intent_type': 'Greeting', 'user_text': 'Hi', 'user_name': 'Avinash Gaur', 'contactNumber': '89892398128', 'user_stage': 0, 're_connect': True}
+2018-03-24 21:50:53,300 - werkzeug - INFO - 127.0.0.1 - - [24/Mar/2018 21:50:53] "POST / HTTP/1.1" 500 -
+2018-03-24 21:51:33,794 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Sumit Mathur\\Desktop\\bot train\\Day 2\\Weather_bot\\bot\\chat_bot.py', reloading
+2018-03-24 21:51:33,987 - werkzeug - INFO -  * Restarting with stat
+2018-03-24 21:51:40,109 - werkzeug - WARNING -  * Debugger is active!
+2018-03-24 21:51:40,114 - werkzeug - INFO -  * Debugger pin code: 116-095-286
+2018-03-24 21:52:09,877 - werkzeug - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2018-03-24 21:52:09,880 - werkzeug - INFO -  * Restarting with stat
+2018-03-24 21:52:14,892 - werkzeug - WARNING -  * Debugger is active!
+2018-03-24 21:52:14,896 - werkzeug - INFO -  * Debugger pin code: 116-095-286
+2018-03-24 21:52:19,658 - bot_logs - DEBUG - Received Json in run_bot: {'userId': '123', 'intent_type': '', 'user_text': 'Hi', 'user_name': 'Avinash Gaur', 'contactNumber': '89892398128', 'user_stage': 0, 're_connect': True}
+2018-03-24 21:52:19,731 - bot_logs - DEBUG - User Data: {'userId': '123', 'intent_type': 'Greeting', 'user_text': 'Hi', 'user_name': 'Avinash Gaur', 'contactNumber': '89892398128', 'user_stage': 0, 're_connect': True}
+2018-03-24 21:52:19,772 - requests.packages.urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): graph.facebook.com
+2018-03-24 21:52:20,861 - requests.packages.urllib3.connectionpool - DEBUG - https://graph.facebook.com:443 "POST /v2.6/me/messages?access_token=EAACev6ZCeUVwBAG6hTXa9vU1GRaaAETSnZBHZBhoFSIUUP3fm2DB3KOYIXurq1INTlqWS0J4wK1RMwHohdfpAgACINvyEcg8buHPog2sWmmJpSj2QoJplBlyEQCDrshjHuwXSDHfZAHmhG8wgt1eyBct7HyejhVWlHsG3ASLdqjWyQqVPlWZAya0GRoUkhxAZD HTTP/1.1" 200 85
+2018-03-24 21:52:20,868 - werkzeug - INFO - 127.0.0.1 - - [24/Mar/2018 21:52:20] "POST / HTTP/1.1" 200 -
+2018-03-24 21:52:21,676 - bot_logs - DEBUG - Received Json in run_bot: {'userId': '123', 'intent_type': '', 'user_text': 'Hi', 'user_name': 'Avinash Gaur', 'contactNumber': '89892398128', 'user_stage': 0, 're_connect': True}
+2018-03-24 21:52:21,677 - bot_logs - DEBUG - User Data: {'userId': '123', 'intent_type': 'Greeting', 'user_text': 'Hi', 'user_name': 'Avinash Gaur', 'contactNumber': '89892398128', 'user_stage': 0, 're_connect': True}
+2018-03-24 21:52:21,680 - requests.packages.urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): graph.facebook.com
+2018-03-24 21:52:22,679 - requests.packages.urllib3.connectionpool - DEBUG - https://graph.facebook.com:443 "POST /v2.6/me/messages?access_token=EAACev6ZCeUVwBAG6hTXa9vU1GRaaAETSnZBHZBhoFSIUUP3fm2DB3KOYIXurq1INTlqWS0J4wK1RMwHohdfpAgACINvyEcg8buHPog2sWmmJpSj2QoJplBlyEQCDrshjHuwXSDHfZAHmhG8wgt1eyBct7HyejhVWlHsG3ASLdqjWyQqVPlWZAya0GRoUkhxAZD HTTP/1.1" 200 85
+2018-03-24 21:52:22,683 - werkzeug - INFO - 127.0.0.1 - - [24/Mar/2018 21:52:22] "POST / HTTP/1.1" 200 -
+2018-03-24 21:52:23,498 - bot_logs - DEBUG - Received Json in run_bot: {'userId': '123', 'intent_type': '', 'user_text': 'Hi', 'user_name': 'Avinash Gaur', 'contactNumber': '89892398128', 'user_stage': 0, 're_connect': True}
+2018-03-24 21:52:23,499 - bot_logs - DEBUG - User Data: {'userId': '123', 'intent_type': 'Greeting', 'user_text': 'Hi', 'user_name': 'Avinash Gaur', 'contactNumber': '89892398128', 'user_stage': 0, 're_connect': True}
+2018-03-24 21:52:23,505 - requests.packages.urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): graph.facebook.com
+2018-03-24 21:52:24,443 - requests.packages.urllib3.connectionpool - DEBUG - https://graph.facebook.com:443 "POST /v2.6/me/messages?access_token=EAACev6ZCeUVwBAG6hTXa9vU1GRaaAETSnZBHZBhoFSIUUP3fm2DB3KOYIXurq1INTlqWS0J4wK1RMwHohdfpAgACINvyEcg8buHPog2sWmmJpSj2QoJplBlyEQCDrshjHuwXSDHfZAHmhG8wgt1eyBct7HyejhVWlHsG3ASLdqjWyQqVPlWZAya0GRoUkhxAZD HTTP/1.1" 200 85
+2018-03-24 21:52:24,446 - werkzeug - INFO - 127.0.0.1 - - [24/Mar/2018 21:52:24] "POST / HTTP/1.1" 200 -
+2018-03-24 21:52:25,184 - bot_logs - DEBUG - Received Json in run_bot: {'userId': '123', 'intent_type': '', 'user_text': 'nlacsma', 'user_name': 'Avinash Gaur', 'contactNumber': '89892398128', 'user_stage': 0, 're_connect': True}
+2018-03-24 21:52:25,184 - bot_logs - DEBUG - User Data: {'userId': '123', 'intent_type': '', 'user_text': 'nlacsma', 'user_name': 'Avinash Gaur', 'contactNumber': '89892398128', 'user_stage': 0, 're_connect': True}
+2018-03-24 21:52:25,187 - requests.packages.urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): graph.facebook.com
+2018-03-24 21:52:26,262 - requests.packages.urllib3.connectionpool - DEBUG - https://graph.facebook.com:443 "POST /v2.6/me/messages?access_token=EAACev6ZCeUVwBAG6hTXa9vU1GRaaAETSnZBHZBhoFSIUUP3fm2DB3KOYIXurq1INTlqWS0J4wK1RMwHohdfpAgACINvyEcg8buHPog2sWmmJpSj2QoJplBlyEQCDrshjHuwXSDHfZAHmhG8wgt1eyBct7HyejhVWlHsG3ASLdqjWyQqVPlWZAya0GRoUkhxAZD HTTP/1.1" 200 85
+2018-03-24 21:52:26,267 - werkzeug - INFO - 127.0.0.1 - - [24/Mar/2018 21:52:26] "POST / HTTP/1.1" 200 -
+2018-03-24 21:52:27,080 - bot_logs - DEBUG - Received Json in run_bot: {'userId': '123', 'intent_type': '', 'user_text': 'Hi', 'user_name': 'Avinash Gaur', 'contactNumber': '89892398128', 'user_stage': 0, 're_connect': True}
+2018-03-24 21:52:27,081 - bot_logs - DEBUG - User Data: {'userId': '123', 'intent_type': 'Greeting', 'user_text': 'Hi', 'user_name': 'Avinash Gaur', 'contactNumber': '89892398128', 'user_stage': 0, 're_connect': True}
+2018-03-24 21:52:27,083 - requests.packages.urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): graph.facebook.com
+2018-03-24 21:52:28,281 - requests.packages.urllib3.connectionpool - DEBUG - https://graph.facebook.com:443 "POST /v2.6/me/messages?access_token=EAACev6ZCeUVwBAG6hTXa9vU1GRaaAETSnZBHZBhoFSIUUP3fm2DB3KOYIXurq1INTlqWS0J4wK1RMwHohdfpAgACINvyEcg8buHPog2sWmmJpSj2QoJplBlyEQCDrshjHuwXSDHfZAHmhG8wgt1eyBct7HyejhVWlHsG3ASLdqjWyQqVPlWZAya0GRoUkhxAZD HTTP/1.1" 200 85
+2018-03-24 21:52:28,284 - werkzeug - INFO - 127.0.0.1 - - [24/Mar/2018 21:52:28] "POST / HTTP/1.1" 200 -
+2018-03-24 22:32:06,060 - bot_logs - DEBUG - Received Json in run_bot: {'userId': '123', 'intent_type': '', 'user_text': 'hi', 'user_name': 'Avinash Gaur', 'contactNumber': '89892398128', 'user_stage': 0, 're_connect': True}
+2018-03-24 22:32:06,061 - bot_logs - DEBUG - User Data: {'userId': '123', 'intent_type': 'Greeting', 'user_text': 'hi', 'user_name': 'Avinash Gaur', 'contactNumber': '89892398128', 'user_stage': 0, 're_connect': True}
+2018-03-24 22:32:06,063 - requests.packages.urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): graph.facebook.com
+2018-03-24 22:32:07,185 - requests.packages.urllib3.connectionpool - DEBUG - https://graph.facebook.com:443 "POST /v2.6/me/messages?access_token=EAACev6ZCeUVwBAG6hTXa9vU1GRaaAETSnZBHZBhoFSIUUP3fm2DB3KOYIXurq1INTlqWS0J4wK1RMwHohdfpAgACINvyEcg8buHPog2sWmmJpSj2QoJplBlyEQCDrshjHuwXSDHfZAHmhG8wgt1eyBct7HyejhVWlHsG3ASLdqjWyQqVPlWZAya0GRoUkhxAZD HTTP/1.1" 200 85
+2018-03-24 22:32:07,188 - werkzeug - INFO - 127.0.0.1 - - [24/Mar/2018 22:32:07] "POST / HTTP/1.1" 200 -
+2018-03-24 22:45:51,247 - werkzeug - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2018-03-24 22:45:51,253 - werkzeug - INFO -  * Restarting with stat
+2018-03-24 22:45:56,613 - werkzeug - WARNING -  * Debugger is active!
+2018-03-24 22:45:56,617 - werkzeug - INFO -  * Debugger pin code: 116-095-286
+2018-03-24 22:45:57,592 - bot_logs - DEBUG - Received Json in run_bot: {'userId': '123', 'intent_type': '', 'user_text': 'hi', 'user_name': 'Avinash Gaur', 'contactNumber': '89892398128', 'user_stage': 0, 're_connect': True}
+2018-03-24 22:45:57,694 - bot_logs - DEBUG - User Data: {'userId': '123', 'intent_type': 'Greeting', 'user_text': 'hi', 'user_name': 'Avinash Gaur', 'contactNumber': '89892398128', 'user_stage': 0, 're_connect': True}
+2018-03-24 22:45:57,707 - requests.packages.urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): graph.facebook.com
+2018-03-24 22:45:58,362 - requests.packages.urllib3.connectionpool - DEBUG - https://graph.facebook.com:443 "POST /v2.6/me/messages?access_token=EAACev6ZCeUVwBAG6hTXa9vU1GRaaAETSnZBHZBhoFSIUUP3fm2DB3KOYIXurq1INTlqWS0J4wK1RMwHohdfpAgACINvyEcg8buHPog2sWmmJpSj2QoJplBlyEQCDrshjHuwXSDHfZAHmhG8wgt1eyBct7HyejhVWlHsG3ASLdqjWyQqVPlWZAya0GRoUkhxAZD HTTP/1.1" 400 143
+2018-03-24 22:45:58,364 - werkzeug - INFO - 127.0.0.1 - - [24/Mar/2018 22:45:58] "POST / HTTP/1.1" 200 -
+2018-03-24 22:47:44,393 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Sumit Mathur\\Desktop\\bot train\\Day 2\\Weather_bot\\bot\\app.py', reloading
+2018-03-24 22:47:44,630 - werkzeug - INFO -  * Restarting with stat
+2018-03-24 22:47:53,275 - werkzeug - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2018-03-24 22:47:53,277 - werkzeug - INFO -  * Restarting with stat
+2018-03-24 22:47:58,977 - werkzeug - WARNING -  * Debugger is active!
+2018-03-24 22:47:58,981 - werkzeug - INFO -  * Debugger pin code: 116-095-286
+2018-03-24 22:48:02,701 - bot_logs - DEBUG - Received Json in run_bot: {'userId': '123', 'intent_type': '', 'user_text': 'hi', 'user_name': 'Avinash Gaur', 'contactNumber': '89892398128', 'user_stage': 0, 're_connect': True}
+2018-03-24 22:48:02,751 - bot_logs - DEBUG - User Data: {'userId': '123', 'intent_type': 'Greeting', 'user_text': 'hi', 'user_name': 'Avinash Gaur', 'contactNumber': '89892398128', 'user_stage': 0, 're_connect': True}
+2018-03-24 22:48:02,762 - requests.packages.urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): graph.facebook.com
+2018-03-24 22:48:03,992 - requests.packages.urllib3.connectionpool - DEBUG - https://graph.facebook.com:443 "POST /v2.6/me/messages?access_token=EAACev6ZCeUVwBAG6hTXa9vU1GRaaAETSnZBHZBhoFSIUUP3fm2DB3KOYIXurq1INTlqWS0J4wK1RMwHohdfpAgACINvyEcg8buHPog2sWmmJpSj2QoJplBlyEQCDrshjHuwXSDHfZAHmhG8wgt1eyBct7HyejhVWlHsG3ASLdqjWyQqVPlWZAya0GRoUkhxAZD HTTP/1.1" 200 85
+2018-03-24 22:48:04,003 - werkzeug - INFO - 127.0.0.1 - - [24/Mar/2018 22:48:04] "POST / HTTP/1.1" 200 -
+2018-03-24 22:48:16,232 - bot_logs - DEBUG - Received Json in run_bot: {'userId': '123', 'intent_type': '', 'user_text': 'fuck you', 'user_name': 'Avinash Gaur', 'contactNumber': '89892398128', 'user_stage': 0, 're_connect': True}
+2018-03-24 22:48:16,235 - requests.packages.urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): graph.facebook.com
+2018-03-24 22:48:17,752 - requests.packages.urllib3.connectionpool - DEBUG - https://graph.facebook.com:443 "POST /v2.6/me/messages?access_token=EAACev6ZCeUVwBAG6hTXa9vU1GRaaAETSnZBHZBhoFSIUUP3fm2DB3KOYIXurq1INTlqWS0J4wK1RMwHohdfpAgACINvyEcg8buHPog2sWmmJpSj2QoJplBlyEQCDrshjHuwXSDHfZAHmhG8wgt1eyBct7HyejhVWlHsG3ASLdqjWyQqVPlWZAya0GRoUkhxAZD HTTP/1.1" 200 85
+2018-03-24 22:48:17,755 - werkzeug - INFO - 127.0.0.1 - - [24/Mar/2018 22:48:17] "POST / HTTP/1.1" 200 -

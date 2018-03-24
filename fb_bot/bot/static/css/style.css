@@ -1,0 +1,17 @@
+
+* {margin:0; padding:0; outline:0 !important;  box-sizing: border-box;  -ms-box-sizing: -webkit-border-box; 
+ -moz-box-sizing: border-box;  -o-box-sizing: border-box;}
+html, body {width:100%; min-height:100vh; margin: 0; padding: 0;}
+body {  font-family: 'Open Sans', sans-serif;  font-size:16px; line-height:normal; background:#000}
+
+
+.bodybg {
+    background: rgba(0, 0, 0, 0) url("../images/website.png") no-repeat scroll center center / 100% 100%;
+}
+
+@media screen and (max-width: 780px){
+.bodybg {
+    background: rgba(0, 0, 0, 0) url("../images/Mobile.png") no-repeat scroll center center / 100% 100%;
+ } 
+}
+
